@@ -1,46 +1,61 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Useless Bluetooth Chat App 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: CodeCraft
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: R Vaishnav Raj - College Of Engineering Trivandrum
+- Member 2: Jayagovind P - College Of Engineering Trivandrum
+- Member 3: Mehbin A C - College Of Engineering Trivandrum
 
 ### Project Description
-[2-3 lines about what your project does]
+A Bluetooth ChatApp that let you send messages in close proximity to another person having the app and the words will be send in a jumbled manner. 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+When people and very near to each other no one uses a chat app they talk to each other verbally.And The conversation is easily understood 
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Create an app that connects people sitting very near to each other.Also the messages and jumbled so that the conversition is not easily understood
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages used: Kotlin
+- Frameworks used: Android SDK  
+- Libraries used: Android Bluetooth API, RecyclerView for message display
+- Tools used: Android Studio, Git for version control
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+## For Hardware:
+
+### Main components:
+- Android smartphone
+- Various Bluetooth-enabled devices (headphones, speakers)
+
+### Specifications:
+- Bluetooth 4.0 or higher
+- Android 6.0 (Marshmallow) or higher
+
+### Tools required:
+- Android Studio
+- USB cable for device connection
+
 
 ### Implementation
 For Software:
 # Installation
-[commands]
-
+```bash
+git clone https://github.com/yourusername/bluetooth-le-chat.git
+cd bluetooth-le-chat
+./gradlew build
+```
 # Run
-[commands]
+```bash
+./gradlew installDebug
+```
 
 ### Project Documentation
 For Software:
