@@ -61,14 +61,20 @@ cd bluetooth-le-chat
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![opening page.jpg]
+Shows the opening page of the app
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Connecting to bluetooth.jpg]
+*Connecting to another user using the app via bluetooth*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![sending message.jpg]
+*Typing he message to be send*
+
+![the send message being jumbled.jpg]
+*Shows how the message was send to the receiver(The words are jumbled*
+
+![recieveing a message.jpg]
+*Recieves a messgae but was jumbled*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
