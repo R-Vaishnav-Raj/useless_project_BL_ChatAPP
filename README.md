@@ -60,59 +60,22 @@ cd bluetooth-le-chat
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![opening page.jpg]
-Shows the opening page of the app
+# Screenshots 
+![Opening Page](opening_page.jpg)  
+*Shows the opening page of the app.*
 
-![Connecting to bluetooth.jpg]
-*Connecting to another user using the app via bluetooth*
+![Connecting to Bluetooth](Connecting_to_bluetooth.jpg)  
+*Connecting to another user using the app via Bluetooth.*
 
-![sending message.jpg]
-*Typing he message to be send*
+![Sending Message](sending_message.jpg)  
+*Typing the message to be sent.*
 
-![the send message being jumbled.jpg]
-*Shows how the message was send to the receiver(The words are jumbled*
+![Sent Message Being Jumbled](the_send_message_being_jumbled.jpg)  
+*Shows how the message was sent to the receiver (the words are jumbled).*
 
-![recieveing a message.jpg]
-*Recieves a messgae but was jumbled*
+![Receiving a Message](recieveing_a_message.jpg)  
+*Receives a message, but it was jumbled.*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
----
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
