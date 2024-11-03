@@ -13,13 +13,13 @@
 - Member 3: Mehbin A C - College Of Engineering Trivandrum
 
 ### Project Description
-A Bluetooth ChatApp that let you send messages in close proximity to another person having the app and the words will be send in a jumbled manner. 
+A Bluetooth chat app that lets you send messages to nearby users with the app, where the words are sent in a jumbled manner.
 
 ### The Problem (that doesn't exist)
-When people and very near to each other no one uses a chat app they talk to each other verbally.And The conversation is easily understood 
+When people are very close to each other, they usually talk verbally instead of using a chat app, and the conversation is easily understood. 
 
 ### The Solution (that nobody asked for)
-Create an app that connects people sitting very near to each other.Also the messages and jumbled so that the conversition is not easily understood
+Create an app that connects people sitting very close to each other. The messages are also jumbled so that the conversation is not easily understood.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -33,7 +33,6 @@ For Software:
 
 ### Main components:
 - Android smartphone
-- Various Bluetooth-enabled devices (headphones, speakers)
 
 ### Specifications:
 - Bluetooth 4.0 or higher
@@ -48,7 +47,7 @@ For Software:
 For Software:
 # Installation
 ```bash
-git clone https://github.com/yourusername/bluetooth-le-chat.git
+git clone https://github.com/R-Vaishnav-Raj/useless_project_BL_ChatAPP.git
 cd bluetooth-le-chat
 ./gradlew build
 ```
