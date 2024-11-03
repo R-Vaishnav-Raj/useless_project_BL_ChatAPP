@@ -44,7 +44,11 @@ For Software:
 
 
 ### Implementation
-For Software:
+For APK file:
+## Download
+[Download the APK](https://github.com/R-Vaishnav-Raj/useless_project_BL_ChatAPP/blob/main/UselessApp.apk)
+
+For Source File
 # Installation
 ```bash
 git clone https://github.com/R-Vaishnav-Raj/useless_project_BL_ChatAPP.git
@@ -57,24 +61,33 @@ cd bluetooth-le-chat
 ```
 
 ### Project Documentation
-For Software:
 
 # Screenshots 
 ![Opening Page](opening_page.jpg)  
 *Shows the opening page of the app.*
-
+             
+               
+               
 ![Connecting to Bluetooth](Connecting_to_bluetooth.jpg)  
 *Connecting to another user using the app via Bluetooth.*
-
+               
+              
+               
 ![Sending Message](sending_message.jpg)  
 *Typing the message to be sent.*
-
+              
+                   
+               
 ![Sent Message Being Jumbled](the_send_message_being_jumbled.jpg)  
 *Shows how the message was sent to the receiver (the words are jumbled).*
-
+              
+               
+            
 ![Receiving a Message](recieveing_a_message.jpg)  
 *Receives a message, but it was jumbled.*
-
+            
+            
+            
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
