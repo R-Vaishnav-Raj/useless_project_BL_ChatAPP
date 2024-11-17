@@ -1,5 +1,9 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
+### Demo Video
+[Demo Video](https://drive.google.com/file/d/1rv99JR9dGQLymCUfYomt0mfitmcIlCOW/view?usp=drivesdk)
+
+
 # Useless Bluetooth Chat App 🎯
 
 
